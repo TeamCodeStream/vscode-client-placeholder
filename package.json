@@ -3,7 +3,7 @@
     "displayName": "CodeStream",
     "description": "CodeStream - Chat about your code along side your code",
     "version": "0.0.1",
-    "publisher": "CodeStream",
+    "publisher": "TeamCodeStream",
     "engines": {
         "vscode": "^1.20.0"
     },

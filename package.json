@@ -1,7 +1,7 @@
 {
     "name": "codestream",
     "displayName": "CodeStream",
-    "description": "CodeStream - Better Teamwork, Better Code",
+    "description": "CodeStream - Chat about your code along side your code",
     "version": "0.0.1",
     "publisher": "codestream",
     "engines": {
@@ -13,7 +13,13 @@
     "activationEvents": [
         "onCommand:extension.onCodeStream"
     ],
+    "icon": "images/cs-icon-black-128x128.png",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "light"
+    },
     "main": "./extension",
+    "homepage": "https://codestream.com/",
     "contributes": {
         "commands": [
             {

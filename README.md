@@ -1,5 +1,6 @@
 
-[<img src="images/cs-icon-black-128x128.png">](https://codestream.com/)
+![Logo](images/cs-icon-black-128x128.png)
+
 # CodeStream
 
 The best place to talk about source code is in the source code. CodeStream is chat for your code built right into the IDE. As you identify portions of your code to talk about with the other collaborators in your project, the conversations persist with the code as it changes over time. As we like to say, _Better Teamwork, Better Code!_

@@ -18,6 +18,10 @@
         "color": "#000000",
         "theme": "light"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/teamcodestream/vscode-client-placeholder.git"
+    },
     "main": "./extension",
     "homepage": "https://codestream.com/",
     "contributes": {
